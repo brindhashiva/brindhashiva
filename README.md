@@ -1,87 +1,46 @@
 <h1 align="center">Hi 👋, I'm Brindha</h1>
 
-<p align="center">
-AI Developer • Generative AI Enthusiast • Python Developer
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Building+AI+Applications;Python+%7C+ML+%7C+Generative+AI;Always+Learning+New+Things"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
----
+</div>
 
-## 🚀 Overview
+<!-- Connect with me -->
+<div>
+  <div align="center">
+    <!-- Github link -->
+    <a href="https://github.com/brindhashiva" target="_blank">
+      <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/brindha-shiva/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Website Link -->
+    <a href="https://github.com/brindhashiva" target="_blank">
+      <img src=https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+    </a>
+    <!-- PyNotes Link -->
+    <a href="https://github.com/brindhashiva/pynotes" target="_blank">
+      <img src=https://img.shields.io/badge/PyNotes-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white alt=pynotes style="margin-bottom: 5px;" />
+    </a>
+    <!-- MyLearning Link -->
+    <a href="https://brindha.gitbook.io/mylearning/" target="_blank">
+      <img src=https://img.shields.io/badge/MyLearning-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white alt=mylearning style="margin-bottom: 5px;" />
+    </a>
+  </div>
+</div>
 
-Passionate AI Developer focused on building real-world AI solutions using Python, FastAPI, Machine Learning, and Generative AI.
-
----
-
-## 🔗 Connect
-
-<p align="center">
-
-<a href="https://github.com/brindhashiva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/brindha-shiva/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://brindha.gitbook.io/mylearning">
-<img src="https://img.shields.io/badge/MyLearning-1E40AF?style=for-the-badge&logo=gitbook&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats + Trophies
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=brindhashiva&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brindhashiva&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=brindhashiva&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📈 Languages
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brindhashiva&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🧾 Profile Summary
-
-<p align="center">
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brindhashiva&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brindhashiva&theme=github_dark"/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brindhashiva&theme=github_dark"/>
-
-</p>
-
----
-
-<p align="center">
-<i>Building practical AI solutions through continuous learning 🚀</i>
-</p>
+<table>
+  <tr>
+    <td colspan="2"><a href="https://github.com/brindhashiva"><img width=100% src="https://github-profile-trophy.vercel.app/?username=brindhashiva&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/brindhashiva"><img src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brindhashiva"><img src="https://streak-stats.demolab.com?user=brindhashiva&theme=nord&hide_border=true"></a></td>
+    <td><a href="https://github.com/brindhashiva"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brindhashiva&theme=nord_dark"></a></td>
+  </tr>
+</table>
