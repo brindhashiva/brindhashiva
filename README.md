@@ -61,8 +61,7 @@
 <p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&theme=react-dark&bg_color=2E3440&color=88C0D0&line=88C0D0&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&theme=nord&bg_color=2E3440&color=88C0D0&line=88C0D0&point=FFFFFF&area=true&hide_border=false"
     alt="Brindha's GitHub Activity Graph"
   />
 
@@ -74,15 +73,14 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
+<div align="center">
 
   <img
     src="https://streak-stats.demolab.com?user=brindhashiva&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0"
-    width="80%"
     alt="Brindha's GitHub Streak"
   />
 
-</p>
+</div>
 
 <br />
 
