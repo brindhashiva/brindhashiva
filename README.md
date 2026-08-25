@@ -29,30 +29,30 @@
   </a>
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/brindhashiva">
-        <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=brindhashiva&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" />
+        <img width="100%" height="195" src="https://github-readme-stats.vercel.app/api?username=brindhashiva&show_icons=true&count_private=true&theme=nord&hide_border=true" alt="brindhashiva's GitHub stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/brindhashiva">
+        <img width="100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brindhashiva&layout=compact&theme=nord&hide_border=true" alt="brindhashiva's top languages" />
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <a href="https://github.com/brindhashiva">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" />
+        <img width="100%" height="200" src="https://streak-stats.demolab.com?user=brindhashiva&theme=nord&hide_border=true" alt="brindhashiva's GitHub streak" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <a href="https://github.com/brindhashiva">
-        <img src="https://streak-stats.demolab.com?user=brindhashiva&theme=nord&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/brindhashiva">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brindhashiva&theme=nord_dark" />
+        <img width="100%" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brindhashiva&theme=nord_dark" alt="brindhashiva's profile summary" />
       </a>
     </td>
   </tr>
