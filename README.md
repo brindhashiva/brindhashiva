@@ -58,14 +58,14 @@
 
 <h2 align="center">📈 GitHub Activity</h2>
 
-<p align="center">
+<div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&theme=nord&bg_color=2E3440&color=88C0D0&line=88C0D0&point=FFFFFF&area=true&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=brindhashiva&theme=nord&bg_color=2E3440&color=88C0D0&line=88C0D0&point=FFFFFF&area_color=88C0D0&hide_border=true"
     alt="Brindha's GitHub Activity Graph"
   />
 
-</p>
+</div>
 
 <br />
 
