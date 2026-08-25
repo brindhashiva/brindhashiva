@@ -29,7 +29,7 @@
     />
   </a>
 
-  <a href="https://github.com/brindhashiva" target="_blank">
+  <a href="https://brindha.dev" target="_blank">
     <img
       src="https://img.shields.io/badge/Website-2E87FB?style=for-the-badge&logo=google-chrome&logoColor=white"
       alt="Website"
