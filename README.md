@@ -33,7 +33,7 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/brindhashiva">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=brindhashiva&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" />
+        <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=brindhashiva&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" />
       </a>
     </td>
   </tr>
